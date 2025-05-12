@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/chefmate/static/css/main.b134f15d.css",
+    "main.js": "/chefmate/static/js/main.8bcdf873.js",
+    "static/js/488.c65f4ec1.chunk.js": "/chefmate/static/js/488.c65f4ec1.chunk.js",
+    "service-worker.js": "/chefmate/service-worker.js",
+    "index.html": "/chefmate/index.html",
+    "main.b134f15d.css.map": "/chefmate/static/css/main.b134f15d.css.map",
+    "main.8bcdf873.js.map": "/chefmate/static/js/main.8bcdf873.js.map",
+    "488.c65f4ec1.chunk.js.map": "/chefmate/static/js/488.c65f4ec1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b134f15d.css",
+    "static/js/main.8bcdf873.js"
+  ]
+}
