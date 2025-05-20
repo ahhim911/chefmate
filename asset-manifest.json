@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/chefmate/static/css/main.6007360c.css",
-    "main.js": "/chefmate/static/js/main.f86e8719.js",
+    "main.js": "/chefmate/static/js/main.248548b2.js",
     "static/js/488.c65f4ec1.chunk.js": "/chefmate/static/js/488.c65f4ec1.chunk.js",
     "static/media/jasper.png": "/chefmate/static/media/jasper.17849a0e59aedc4f6842.png",
     "static/media/chefmate_icon_word.png": "/chefmate/static/media/chefmate_icon_word.4ba34eaf46c84752bab3.png",
@@ -14,11 +14,11 @@
     "service-worker.js": "/chefmate/service-worker.js",
     "index.html": "/chefmate/index.html",
     "main.6007360c.css.map": "/chefmate/static/css/main.6007360c.css.map",
-    "main.f86e8719.js.map": "/chefmate/static/js/main.f86e8719.js.map",
+    "main.248548b2.js.map": "/chefmate/static/js/main.248548b2.js.map",
     "488.c65f4ec1.chunk.js.map": "/chefmate/static/js/488.c65f4ec1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6007360c.css",
-    "static/js/main.f86e8719.js"
+    "static/js/main.248548b2.js"
   ]
 }
