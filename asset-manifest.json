@@ -1,16 +1,24 @@
 {
   "files": {
-    "main.css": "/chefmate/static/css/main.b134f15d.css",
-    "main.js": "/chefmate/static/js/main.8bcdf873.js",
+    "main.css": "/chefmate/static/css/main.6007360c.css",
+    "main.js": "/chefmate/static/js/main.f86e8719.js",
     "static/js/488.c65f4ec1.chunk.js": "/chefmate/static/js/488.c65f4ec1.chunk.js",
+    "static/media/jasper.png": "/chefmate/static/media/jasper.17849a0e59aedc4f6842.png",
+    "static/media/chefmate_icon_word.png": "/chefmate/static/media/chefmate_icon_word.4ba34eaf46c84752bab3.png",
+    "static/media/pexels-kindelmedia-6994189.jpg": "/chefmate/static/media/pexels-kindelmedia-6994189.61119592f65e4b7f7ebc.jpg",
+    "static/media/rachael.png": "/chefmate/static/media/rachael.73e14e2675c78a9c7fb9.png",
+    "static/media/pexels-polina-tankilevitch-4443433.jpg": "/chefmate/static/media/pexels-polina-tankilevitch-4443433.ab659b88cb1d016d09d1.jpg",
+    "static/media/kelvin.png": "/chefmate/static/media/kelvin.b822dca4c019ebc6aaf8.png",
+    "static/media/jordan.png": "/chefmate/static/media/jordan.4a46789795aee0ad3751.png",
+    "static/media/edmond.png": "/chefmate/static/media/edmond.26149ff8b53e62dae0e6.png",
     "service-worker.js": "/chefmate/service-worker.js",
     "index.html": "/chefmate/index.html",
-    "main.b134f15d.css.map": "/chefmate/static/css/main.b134f15d.css.map",
-    "main.8bcdf873.js.map": "/chefmate/static/js/main.8bcdf873.js.map",
+    "main.6007360c.css.map": "/chefmate/static/css/main.6007360c.css.map",
+    "main.f86e8719.js.map": "/chefmate/static/js/main.f86e8719.js.map",
     "488.c65f4ec1.chunk.js.map": "/chefmate/static/js/488.c65f4ec1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b134f15d.css",
-    "static/js/main.8bcdf873.js"
+    "static/css/main.6007360c.css",
+    "static/js/main.f86e8719.js"
   ]
 }
