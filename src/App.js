@@ -418,7 +418,7 @@ function App() {
               <div className="about-content">
                 <h2>About ChefMate</h2>
                 <p className="highlight">We're on a mission to revolutionize how people interact with their refrigerators and reduce global food waste.</p>
-                <p>Founded in 2023, ChefMate was born from a simple observation: despite our best intentions, most of us waste food regularly because we lack the tools to effectively manage what's in our refrigerator.</p>
+                <p>Founded in 2025, ChefMate was born from a simple observation: despite our best intentions, most of us waste food regularly because we lack the tools to effectively manage what's in our refrigerator.</p>
                 <p>Our team of food lovers, technologists, and environmental advocates came together to create a solution that makes it easy and intuitive to track food, reduce waste, and save money in the process.</p>
                 <div className="about-stats">
                   <div className="stat-item">
@@ -448,61 +448,7 @@ function App() {
       {/* Footer */}
       <footer id="contact" className="footer dark-background">
         <div className="container">
-          <div className="row">
-            <div className="col-lg-4 col-md-6">
-              <div className="footer-info">
-                <h3>
-                  <img src={chefLogo} alt="ChefMate Logo" height="40" />
-                </h3>
-                <p>
-                  123 Innovation Drive <br />
-                  San Francisco, CA 94105<br /><br />
-                  <strong>Phone:</strong> +1 (555) 123-4567<br />
-                  <strong>Email:</strong> info@chefmate.com<br />
-                </p>
-                <div className="social-links">
-                  <a href="#" className="twitter"><i className="bi bi-twitter-x"></i></a>
-                  <a href="#" className="facebook"><i className="bi bi-facebook"></i></a>
-                  <a href="#" className="instagram"><i className="bi bi-instagram"></i></a>
-                  <a href="#" className="linkedin"><i className="bi bi-linkedin"></i></a>
-                </div>
-              </div>
-            </div>
-
-            <div className="col-lg-2 col-md-6 footer-links">
-              <h4>Useful Links</h4>
-              <ul>
-                <li><i className="bi bi-chevron-right"></i> <a href="#hero">Home</a></li>
-                <li><i className="bi bi-chevron-right"></i> <a href="#about">About us</a></li>
-                <li><i className="bi bi-chevron-right"></i> <a href="#solution">Features</a></li>
-                <li><i className="bi bi-chevron-right"></i> <a href="#">Privacy policy</a></li>
-                <li><i className="bi bi-chevron-right"></i> <a href="#">Terms of service</a></li>
-              </ul>
-            </div>
-
-            <div className="col-lg-3 col-md-6 footer-links">
-              <h4>Our Services</h4>
-              <ul>
-                <li><i className="bi bi-chevron-right"></i> <a href="#">Food Tracking</a></li>
-                <li><i className="bi bi-chevron-right"></i> <a href="#">Expiration Management</a></li>
-                <li><i className="bi bi-chevron-right"></i> <a href="#">Recipe Suggestions</a></li>
-                <li><i className="bi bi-chevron-right"></i> <a href="#">Shopping Assistance</a></li>
-                <li><i className="bi bi-chevron-right"></i> <a href="#">Waste Analytics</a></li>
-              </ul>
-            </div>
-
-            <div className="col-lg-3 col-md-6 footer-newsletter">
-              <h4>Our Newsletter</h4>
-              <p>Stay updated with the latest features, tips, and food waste reduction strategies</p>
-              <form>
-                <input type="email" name="email" placeholder="Your email" />
-                <input type="submit" value="Subscribe" />
-              </form>
-            </div>
-          </div>
-        </div>
-        <div className="copyright">
-          <div className="container">
+          <div className="copyright">
             <div className="copyright-text">
               &copy; {new Date().getFullYear()} <strong>ChefMate</strong>. All Rights Reserved
             </div>
